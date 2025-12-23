@@ -1,0 +1,5 @@
+{
+  "name": "Breach Browser",
+  "description": "A personal security awareness tool to check if your email or passwords have been compromised in known data breaches, powered by Gemini and the HIBP API.",
+  "requestFramePermissions": []
+}
